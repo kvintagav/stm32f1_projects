@@ -1,0 +1,8 @@
+#ifndef __VERSION_PROGRAMM_H
+#define __VERSION_PROGRAMM_H
+
+#define VERSION_DATA 0x20190618
+
+#define VERSION_PROGRAMM 0x25b4e7d2
+
+#endif
